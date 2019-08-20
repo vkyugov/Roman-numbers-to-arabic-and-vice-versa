@@ -13,7 +13,7 @@
 	<div class="form">
 		<span class="title">
 				Just enter a Roman or Arabic number in the test field on
-            the left and get its equivalent in the opposite extinction system!
+            the left and get its equivalent in the opposite  system!
 		</span><br>
 		<input type="text" name="text" id="vvod">
 		<button class="go">=></button>
